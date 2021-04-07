@@ -5,9 +5,68 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #46529d;
+  color: #fff;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 60%;
+  margin: 10% auto;
+}
+.text-center {
+  text-align: center;
+}
+.ListItems {
+  background-color: #fff;
+  color: #46529d;
+}
+.ListItems p {
+  margin: 0;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 24px;
+}
+.ListItems span {
+  display: inline-block;
+  text-align: center;
+  font-size: 24px;
+  border: 0.3px solid #ccc;
+}
+.ListItems span.title {
+  background-color: #2ebaee;
+  color: #fff;
+}
+.ListItems span.name,
+input[type="text"] {
+  width: 60%;
+}
+.ListItems span.age,
+input[type="number"] {
+  width: 30%;
+}
+.ListItems span.action,
+input[type="submit"] {
+  width: 10%;
+}
+.ListItems span.icon {
+  color: #f00;
+  cursor: pointer;
+}
+form input {
+  padding: 10px;
+  background: #ebebeb;
+  border: transparent;
+  border: 0.3px solid #ccc;
+}
+form input[type="submit"] {
+  color: #fff;
+  background: tomato;
+  cursor: pointer;
 }

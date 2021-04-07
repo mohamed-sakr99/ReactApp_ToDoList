@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/template-fourteen_React-ToDoList/static/css/main.b29108fa.chunk.css",
+    "main.js": "/template-fourteen_React-ToDoList/static/js/main.3a541b85.chunk.js",
+    "main.js.map": "/template-fourteen_React-ToDoList/static/js/main.3a541b85.chunk.js.map",
+    "runtime-main.js": "/template-fourteen_React-ToDoList/static/js/runtime-main.4c932c21.js",
+    "runtime-main.js.map": "/template-fourteen_React-ToDoList/static/js/runtime-main.4c932c21.js.map",
+    "static/js/2.ce3e6201.chunk.js": "/template-fourteen_React-ToDoList/static/js/2.ce3e6201.chunk.js",
+    "static/js/2.ce3e6201.chunk.js.map": "/template-fourteen_React-ToDoList/static/js/2.ce3e6201.chunk.js.map",
+    "static/js/3.42bd32d6.chunk.js": "/template-fourteen_React-ToDoList/static/js/3.42bd32d6.chunk.js",
+    "static/js/3.42bd32d6.chunk.js.map": "/template-fourteen_React-ToDoList/static/js/3.42bd32d6.chunk.js.map",
+    "index.html": "/template-fourteen_React-ToDoList/index.html",
+    "static/css/main.b29108fa.chunk.css.map": "/template-fourteen_React-ToDoList/static/css/main.b29108fa.chunk.css.map",
+    "static/js/2.ce3e6201.chunk.js.LICENSE.txt": "/template-fourteen_React-ToDoList/static/js/2.ce3e6201.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c932c21.js",
+    "static/js/2.ce3e6201.chunk.js",
+    "static/css/main.b29108fa.chunk.css",
+    "static/js/main.3a541b85.chunk.js"
+  ]
+}
